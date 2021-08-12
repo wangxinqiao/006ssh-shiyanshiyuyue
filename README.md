@@ -1,20 +1,21 @@
-#  014ssm实验室预约管理系统
-014ssm实验室预约管理系统
+#  006ssh实验室预约管理系统
+006ssh实验室预约管理系统
 
 
 ## 环境要求
 IDEA开发环境，Spring,springMvc,Mybatis框架，前端Jsp技术，AJax技术，使用Mysql 5.7 数据库。本项目非Maven项目；
 
-数据导入：
+## 数据导入：
 在MySQL数据库中创建数据库，数据库名称建议为laboratory(可自定义),导入lrms.sql；
 数据库创建并导入完成后，在ApplicationContext.xml文件中配置数据库名称及用户名密码等；
 
-运行：
+## 运行：
 运行成功后，在浏览器中访问http://localhost:8080/；
 管理员账号：admin  密码：123456
 教师账号：Z0000001 密码：js123456
 学生账号：1309030223 密码：xs123456
 
+演示视频：[ **点此查看** ](https://www.bilibili.com/video/BV18b4y1d7Vi/)
 源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=117)
 
 ## 功能介绍
